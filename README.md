@@ -25,4 +25,3 @@ Configuration of the REALM to use the SMS Authentication:
 3) Under Authentication > Bindings:
 
   - Select 'SMS Browser' as the 'Browser Flow' for the REALM.
-  - Under Authentication > Required Actions:
